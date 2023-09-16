@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\bin\Debug\PozNum.exe.config
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\bin\Debug\PozNum.exe
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\bin\Debug\PozNum.pdb
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.Form1.resources
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.exe
+C:\Users\HP\Desktop\VS po info\PozNum\PozNum\obj\Debug\PozNum.pdb

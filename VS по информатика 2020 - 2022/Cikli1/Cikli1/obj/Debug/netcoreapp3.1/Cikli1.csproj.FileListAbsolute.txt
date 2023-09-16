@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\bin\Debug\netcoreapp3.1\Cikli1.exe
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\bin\Debug\netcoreapp3.1\Cikli1.deps.json
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\bin\Debug\netcoreapp3.1\Cikli1.runtimeconfig.json
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\bin\Debug\netcoreapp3.1\Cikli1.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\bin\Debug\netcoreapp3.1\Cikli1.dll
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\bin\Debug\netcoreapp3.1\Cikli1.pdb
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.dll
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.pdb
+C:\Users\HP\Desktop\Urok po info\Cikli1\Cikli1\obj\Debug\netcoreapp3.1\Cikli1.genruntimeconfig.cache

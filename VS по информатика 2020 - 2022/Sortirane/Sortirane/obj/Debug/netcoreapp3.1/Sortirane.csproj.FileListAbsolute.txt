@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\bin\Debug\netcoreapp3.1\Sortirane.exe
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\bin\Debug\netcoreapp3.1\Sortirane.deps.json
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\bin\Debug\netcoreapp3.1\Sortirane.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\bin\Debug\netcoreapp3.1\Sortirane.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\bin\Debug\netcoreapp3.1\Sortirane.dll
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\bin\Debug\netcoreapp3.1\Sortirane.pdb
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.dll
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.pdb
+C:\Users\HP\Desktop\VS po info\Sortirane\Sortirane\obj\Debug\netcoreapp3.1\Sortirane.genruntimeconfig.cache

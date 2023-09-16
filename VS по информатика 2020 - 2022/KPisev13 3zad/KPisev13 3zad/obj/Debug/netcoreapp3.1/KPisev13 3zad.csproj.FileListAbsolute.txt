@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\bin\Debug\netcoreapp3.1\KPisev13 3zad.exe
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\bin\Debug\netcoreapp3.1\KPisev13 3zad.deps.json
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\bin\Debug\netcoreapp3.1\KPisev13 3zad.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\bin\Debug\netcoreapp3.1\KPisev13 3zad.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\bin\Debug\netcoreapp3.1\KPisev13 3zad.dll
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\bin\Debug\netcoreapp3.1\KPisev13 3zad.pdb
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.dll
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.pdb
+C:\Users\HP\Desktop\VS po info\KPisev13 3zad\KPisev13 3zad\obj\Debug\netcoreapp3.1\KPisev13 3zad.genruntimeconfig.cache

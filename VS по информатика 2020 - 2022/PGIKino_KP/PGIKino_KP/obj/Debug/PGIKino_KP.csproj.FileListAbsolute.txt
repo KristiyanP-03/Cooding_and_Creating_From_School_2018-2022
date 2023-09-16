@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\bin\Debug\PGIKino_KP.exe.config
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\bin\Debug\PGIKino_KP.exe
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\bin\Debug\PGIKino_KP.pdb
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.Form1.resources
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.InfoForm.resources
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.exe
+C:\Users\HP\Desktop\VS po info\PGIKino_KP\PGIKino_KP\obj\Debug\PGIKino_KP.pdb

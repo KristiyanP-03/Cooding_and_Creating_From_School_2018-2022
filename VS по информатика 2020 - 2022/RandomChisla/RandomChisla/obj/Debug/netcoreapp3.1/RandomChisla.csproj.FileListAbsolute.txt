@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\bin\Debug\netcoreapp3.1\RandomChisla.exe
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\bin\Debug\netcoreapp3.1\RandomChisla.deps.json
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\bin\Debug\netcoreapp3.1\RandomChisla.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\bin\Debug\netcoreapp3.1\RandomChisla.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\bin\Debug\netcoreapp3.1\RandomChisla.dll
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\bin\Debug\netcoreapp3.1\RandomChisla.pdb
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.dll
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.pdb
+C:\Users\HP\Desktop\VS po info\RandomChisla\RandomChisla\obj\Debug\netcoreapp3.1\RandomChisla.genruntimeconfig.cache

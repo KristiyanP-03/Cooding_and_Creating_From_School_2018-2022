@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\bin\Debug\KPisev13_0917.exe.config
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\bin\Debug\KPisev13_0917.exe
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\bin\Debug\KPisev13_0917.pdb
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.Form1.resources
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.exe
+C:\Users\HP\Desktop\VS po info\KPisev13_0917\KPisev13_0917\obj\Debug\KPisev13_0917.pdb

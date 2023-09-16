@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\bin\Debug\KPisev13 zad 11.19.2020.exe.config
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\bin\Debug\KPisev13 zad 11.19.2020.exe
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\bin\Debug\KPisev13 zad 11.19.2020.pdb
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13 zad 11.19.2020.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13_zad_11._19._2020.Form1.resources
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13_zad_11._19._2020.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13 zad 11.19.2020.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13 zad 11.19.2020.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13 zad 11.19.2020.exe
+C:\Users\HP\Desktop\VS po info\KPisev13 zad 11.19.2020\KPisev13 zad 11.19.2020\obj\Debug\KPisev13 zad 11.19.2020.pdb

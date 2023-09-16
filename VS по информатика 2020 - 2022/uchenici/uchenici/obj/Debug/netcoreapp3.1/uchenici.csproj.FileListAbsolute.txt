@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\bin\Debug\netcoreapp3.1\uchenici.exe
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\bin\Debug\netcoreapp3.1\uchenici.deps.json
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\bin\Debug\netcoreapp3.1\uchenici.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\bin\Debug\netcoreapp3.1\uchenici.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\bin\Debug\netcoreapp3.1\uchenici.dll
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\bin\Debug\netcoreapp3.1\uchenici.pdb
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.dll
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.pdb
+C:\Users\HP\Desktop\VS po info\uchenici\uchenici\obj\Debug\netcoreapp3.1\uchenici.genruntimeconfig.cache

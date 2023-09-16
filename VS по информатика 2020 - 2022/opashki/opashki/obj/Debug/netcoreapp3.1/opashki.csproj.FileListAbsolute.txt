@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\opashki\opashki\bin\Debug\netcoreapp3.1\opashki.exe
+C:\Users\HP\Desktop\VS po info\opashki\opashki\bin\Debug\netcoreapp3.1\opashki.deps.json
+C:\Users\HP\Desktop\VS po info\opashki\opashki\bin\Debug\netcoreapp3.1\opashki.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\opashki\opashki\bin\Debug\netcoreapp3.1\opashki.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\opashki\opashki\bin\Debug\netcoreapp3.1\opashki.dll
+C:\Users\HP\Desktop\VS po info\opashki\opashki\bin\Debug\netcoreapp3.1\opashki.pdb
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.dll
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.pdb
+C:\Users\HP\Desktop\VS po info\opashki\opashki\obj\Debug\netcoreapp3.1\opashki.genruntimeconfig.cache

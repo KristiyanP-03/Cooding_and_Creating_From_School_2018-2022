@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\bin\Debug\netcoreapp3.1\MoneyCollector.exe
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\bin\Debug\netcoreapp3.1\MoneyCollector.deps.json
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\bin\Debug\netcoreapp3.1\MoneyCollector.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\bin\Debug\netcoreapp3.1\MoneyCollector.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\bin\Debug\netcoreapp3.1\MoneyCollector.dll
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\bin\Debug\netcoreapp3.1\MoneyCollector.pdb
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.dll
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.pdb
+C:\Users\HP\Desktop\VS po info\MoneyCollector\MoneyCollector\obj\Debug\netcoreapp3.1\MoneyCollector.genruntimeconfig.cache

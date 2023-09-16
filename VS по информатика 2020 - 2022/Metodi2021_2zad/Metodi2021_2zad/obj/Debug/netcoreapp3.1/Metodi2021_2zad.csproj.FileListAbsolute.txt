@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\bin\Debug\netcoreapp3.1\Metodi2021_2zad.exe
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\bin\Debug\netcoreapp3.1\Metodi2021_2zad.deps.json
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\bin\Debug\netcoreapp3.1\Metodi2021_2zad.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\bin\Debug\netcoreapp3.1\Metodi2021_2zad.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\bin\Debug\netcoreapp3.1\Metodi2021_2zad.dll
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\bin\Debug\netcoreapp3.1\Metodi2021_2zad.pdb
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.dll
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.pdb
+C:\Users\HP\Desktop\VS po info\Metodi2021_2zad\Metodi2021_2zad\obj\Debug\netcoreapp3.1\Metodi2021_2zad.genruntimeconfig.cache

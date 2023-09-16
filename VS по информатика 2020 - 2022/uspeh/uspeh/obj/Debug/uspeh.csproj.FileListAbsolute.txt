@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\bin\Debug\uspeh.exe.config
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\bin\Debug\uspeh.exe
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\bin\Debug\uspeh.pdb
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.Form1.resources
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.exe
+C:\Users\HP\Desktop\VS po info\uspeh\uspeh\obj\Debug\uspeh.pdb

@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\VS po info\RechnikZad3\obj\Debug\netcoreapp3.1\RechnikZad3.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\RechnikZad3\obj\Debug\netcoreapp3.1\RechnikZad3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\RechnikZad3\obj\Debug\netcoreapp3.1\RechnikZad3.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\RechnikZad3\obj\Debug\netcoreapp3.1\RechnikZad3.csproj.CoreCompileInputs.cache

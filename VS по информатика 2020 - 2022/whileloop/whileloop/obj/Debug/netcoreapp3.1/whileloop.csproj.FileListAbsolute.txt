@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.exe
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.deps.json
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\HP\Desktop\VS po info\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.genruntimeconfig.cache

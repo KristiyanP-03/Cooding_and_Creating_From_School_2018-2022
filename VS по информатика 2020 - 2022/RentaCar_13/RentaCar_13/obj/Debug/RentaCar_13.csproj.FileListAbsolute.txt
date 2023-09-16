@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\bin\Debug\RentaCar_13.exe.config
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\bin\Debug\RentaCar_13.exe
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\bin\Debug\RentaCar_13.pdb
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.Form1.resources
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.exe
+C:\Users\HP\Desktop\VS po info\RentaCar_13\RentaCar_13\obj\Debug\RentaCar_13.pdb

@@ -1,0 +1,14 @@
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\bin\Debug\netcoreapp3.1\LegulqrniIzrazi.exe
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\bin\Debug\netcoreapp3.1\LegulqrniIzrazi.deps.json
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\bin\Debug\netcoreapp3.1\LegulqrniIzrazi.runtimeconfig.json
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\bin\Debug\netcoreapp3.1\LegulqrniIzrazi.runtimeconfig.dev.json
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\bin\Debug\netcoreapp3.1\LegulqrniIzrazi.dll
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\bin\Debug\netcoreapp3.1\LegulqrniIzrazi.pdb
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.csproj.AssemblyReference.cache
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.AssemblyInfoInputs.cache
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.AssemblyInfo.cs
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.csproj.CoreCompileInputs.cache
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.dll
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.pdb
+D:\VS na KP\LegulqrniIzrazi\LegulqrniIzrazi\obj\Debug\netcoreapp3.1\LegulqrniIzrazi.genruntimeconfig.cache

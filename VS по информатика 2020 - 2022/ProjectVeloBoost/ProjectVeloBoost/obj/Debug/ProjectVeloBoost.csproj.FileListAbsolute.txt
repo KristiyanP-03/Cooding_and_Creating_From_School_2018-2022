@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.Form1.resources
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.LogIn.resources
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\bin\Debug\ProjectVeloBoost.exe.config
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\bin\Debug\ProjectVeloBoost.exe
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\bin\Debug\ProjectVeloBoost.pdb
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.exe
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.pdb
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.SignUp.resources
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.BikesPage1.resources
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.BikesPage2.resources
+C:\Users\HP\Desktop\VS po info\ProjectVeloBoost\ProjectVeloBoost\obj\Debug\ProjectVeloBoost.PartsPage1.resources

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\bin\Debug\WatchShop.exe.config
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\bin\Debug\WatchShop.exe
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\bin\Debug\WatchShop.pdb
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.Form1.resources
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.exe
+C:\Users\HP\Desktop\VS po info\WatchShop\WatchShop\obj\Debug\WatchShop.pdb

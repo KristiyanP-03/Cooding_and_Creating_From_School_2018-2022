@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\bin\Debug\netcoreapp3.1\Interfeisite.exe
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\bin\Debug\netcoreapp3.1\Interfeisite.deps.json
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\bin\Debug\netcoreapp3.1\Interfeisite.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\bin\Debug\netcoreapp3.1\Interfeisite.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\bin\Debug\netcoreapp3.1\Interfeisite.dll
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\bin\Debug\netcoreapp3.1\Interfeisite.pdb
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.dll
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.pdb
+C:\Users\HP\Desktop\VS po info\Interfeisite\Interfeisite\obj\Debug\netcoreapp3.1\Interfeisite.genruntimeconfig.cache

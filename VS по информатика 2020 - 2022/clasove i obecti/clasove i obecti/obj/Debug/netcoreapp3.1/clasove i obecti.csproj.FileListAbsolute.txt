@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\bin\Debug\netcoreapp3.1\clasove i obecti.exe
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\bin\Debug\netcoreapp3.1\clasove i obecti.deps.json
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\bin\Debug\netcoreapp3.1\clasove i obecti.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\bin\Debug\netcoreapp3.1\clasove i obecti.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\bin\Debug\netcoreapp3.1\clasove i obecti.dll
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\bin\Debug\netcoreapp3.1\clasove i obecti.pdb
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.dll
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.pdb
+C:\Users\HP\Desktop\VS po info\clasove i obecti\clasove i obecti\obj\Debug\netcoreapp3.1\clasove i obecti.genruntimeconfig.cache

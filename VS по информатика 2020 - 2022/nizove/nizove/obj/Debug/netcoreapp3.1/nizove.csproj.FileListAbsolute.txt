@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.exe
+C:\Users\HP\Desktop\VS po info\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.deps.json
+C:\Users\HP\Desktop\VS po info\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.dll
+C:\Users\HP\Desktop\VS po info\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.pdb
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.dll
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.pdb
+C:\Users\HP\Desktop\VS po info\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.genruntimeconfig.cache

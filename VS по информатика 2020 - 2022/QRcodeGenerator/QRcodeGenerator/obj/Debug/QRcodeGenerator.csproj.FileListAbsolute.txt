@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.Form1.resources
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CopyComplete
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.exe
+C:\Users\HP\Desktop\VS po info\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.pdb

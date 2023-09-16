@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\bin\Debug\netcoreapp3.1\KristiyanP_XIIvN13.exe
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\bin\Debug\netcoreapp3.1\KristiyanP_XIIvN13.deps.json
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\bin\Debug\netcoreapp3.1\KristiyanP_XIIvN13.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\bin\Debug\netcoreapp3.1\KristiyanP_XIIvN13.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\bin\Debug\netcoreapp3.1\KristiyanP_XIIvN13.dll
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\bin\Debug\netcoreapp3.1\KristiyanP_XIIvN13.pdb
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.dll
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.pdb
+C:\Users\HP\Desktop\VS po info\KristiyanP_XIIvN13\KristiyanP_XIIvN13\obj\Debug\netcoreapp3.1\KristiyanP_XIIvN13.genruntimeconfig.cache

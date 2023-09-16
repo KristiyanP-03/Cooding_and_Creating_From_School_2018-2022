@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\masivi\masivi\bin\Debug\netcoreapp3.1\masivi.exe
+C:\Users\HP\Desktop\VS po info\masivi\masivi\bin\Debug\netcoreapp3.1\masivi.deps.json
+C:\Users\HP\Desktop\VS po info\masivi\masivi\bin\Debug\netcoreapp3.1\masivi.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\masivi\masivi\bin\Debug\netcoreapp3.1\masivi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\masivi\masivi\bin\Debug\netcoreapp3.1\masivi.dll
+C:\Users\HP\Desktop\VS po info\masivi\masivi\bin\Debug\netcoreapp3.1\masivi.pdb
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.dll
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.pdb
+C:\Users\HP\Desktop\VS po info\masivi\masivi\obj\Debug\netcoreapp3.1\masivi.genruntimeconfig.cache

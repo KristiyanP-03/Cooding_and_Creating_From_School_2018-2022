@@ -1,0 +1,26 @@
+D:\Kristiyan XIv\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.exe
+D:\Kristiyan XIv\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.deps.json
+D:\Kristiyan XIv\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.runtimeconfig.json
+D:\Kristiyan XIv\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.runtimeconfig.dev.json
+D:\Kristiyan XIv\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.dll
+D:\Kristiyan XIv\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.pdb
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.csprojAssemblyReference.cache
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.AssemblyInfoInputs.cache
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.AssemblyInfo.cs
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.csproj.CoreCompileInputs.cache
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.dll
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.pdb
+D:\Kristiyan XIv\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.genruntimeconfig.cache
+C:\Users\HP\Desktop\VS po info\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.exe
+C:\Users\HP\Desktop\VS po info\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.deps.json
+C:\Users\HP\Desktop\VS po info\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.dll
+C:\Users\HP\Desktop\VS po info\RechniciZad2\bin\Debug\netcoreapp3.1\RechniciZad2.pdb
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.dll
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.pdb
+C:\Users\HP\Desktop\VS po info\RechniciZad2\obj\Debug\netcoreapp3.1\RechniciZad2.genruntimeconfig.cache

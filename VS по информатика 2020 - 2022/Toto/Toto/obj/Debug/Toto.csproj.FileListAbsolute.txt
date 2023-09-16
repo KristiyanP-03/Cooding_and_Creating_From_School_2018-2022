@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\Toto\Toto\bin\Debug\Toto.exe.config
+C:\Users\HP\Desktop\VS po info\Toto\Toto\bin\Debug\Toto.exe
+C:\Users\HP\Desktop\VS po info\Toto\Toto\bin\Debug\Toto.pdb
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.Form1.resources
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.exe
+C:\Users\HP\Desktop\VS po info\Toto\Toto\obj\Debug\Toto.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\bin\Debug\SvNaElementite.exe.config
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\bin\Debug\SvNaElementite.exe
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\bin\Debug\SvNaElementite.pdb
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.Form1.resources
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.exe
+C:\Users\HP\Desktop\VS po info\SvNaElementite\SvNaElementite\obj\Debug\SvNaElementite.pdb

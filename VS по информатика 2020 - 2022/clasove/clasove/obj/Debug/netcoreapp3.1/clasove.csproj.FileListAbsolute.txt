@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\Urok po info\clasove\clasove\obj\Debug\netcoreapp3.1\clasove.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Urok po info\clasove\clasove\obj\Debug\netcoreapp3.1\clasove.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Urok po info\clasove\clasove\obj\Debug\netcoreapp3.1\clasove.AssemblyInfo.cs
+C:\Users\HP\Desktop\Urok po info\clasove\clasove\obj\Debug\netcoreapp3.1\clasove.csproj.CoreCompileInputs.cache

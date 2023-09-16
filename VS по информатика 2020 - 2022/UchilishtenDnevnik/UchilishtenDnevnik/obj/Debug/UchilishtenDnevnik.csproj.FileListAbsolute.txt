@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\bin\Debug\UchilishtenDnevnik.exe.config
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\bin\Debug\UchilishtenDnevnik.exe
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\bin\Debug\UchilishtenDnevnik.pdb
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.Form1.resources
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.Properties.Resources.resources
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.exe
+C:\Users\HP\Desktop\VS po info\UchilishtenDnevnik\UchilishtenDnevnik\obj\Debug\UchilishtenDnevnik.pdb

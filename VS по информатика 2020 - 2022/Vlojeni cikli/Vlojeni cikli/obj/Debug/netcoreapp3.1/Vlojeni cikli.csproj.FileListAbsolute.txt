@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\bin\Debug\netcoreapp3.1\Vlojeni cikli.exe
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\bin\Debug\netcoreapp3.1\Vlojeni cikli.deps.json
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\bin\Debug\netcoreapp3.1\Vlojeni cikli.runtimeconfig.json
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\bin\Debug\netcoreapp3.1\Vlojeni cikli.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\bin\Debug\netcoreapp3.1\Vlojeni cikli.dll
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\bin\Debug\netcoreapp3.1\Vlojeni cikli.pdb
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.AssemblyInfo.cs
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.dll
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.pdb
+C:\Users\HP\Desktop\Urok po info\Vlojeni cikli\Vlojeni cikli\obj\Debug\netcoreapp3.1\Vlojeni cikli.genruntimeconfig.cache

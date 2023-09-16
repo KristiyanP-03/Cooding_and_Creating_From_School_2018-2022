@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\bin\Debug\netcoreapp3.1\kolekciq.exe
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\bin\Debug\netcoreapp3.1\kolekciq.deps.json
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\bin\Debug\netcoreapp3.1\kolekciq.runtimeconfig.json
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\bin\Debug\netcoreapp3.1\kolekciq.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\bin\Debug\netcoreapp3.1\kolekciq.dll
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\bin\Debug\netcoreapp3.1\kolekciq.pdb
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.AssemblyInfo.cs
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.dll
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.pdb
+C:\Users\HP\Desktop\VS po info\kolekciq\kolekciq\obj\Debug\netcoreapp3.1\kolekciq.genruntimeconfig.cache

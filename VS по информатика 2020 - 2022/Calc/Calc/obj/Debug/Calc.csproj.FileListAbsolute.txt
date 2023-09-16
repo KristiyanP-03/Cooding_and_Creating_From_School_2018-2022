@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Calculator\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\HP\Desktop\Calculator\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\HP\Desktop\Calculator\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\HP\Desktop\Calculator\Calc\Calc\obj\Debug\Calc.pdb
